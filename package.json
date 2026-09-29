@@ -1,0 +1,9 @@
+{
+  "name": "asuwan-ec2",
+  "version": "1.0.0",
+  "description": "Simple test app for EC2 deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
