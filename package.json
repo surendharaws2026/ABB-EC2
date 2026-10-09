@@ -1,5 +1,5 @@
 {
-  "name": "ABB-ec2",
+  "name": "ABB-EC2",
   "version": "1.0.0",
   "description": "Simple test app for EC2 deployment",
   "main": "server.js",
